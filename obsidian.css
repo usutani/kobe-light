@@ -1,0 +1,76 @@
+/* Kobe Light — Obsidian theme */
+/* Synced automatically by omarchy-theme-set */
+
+.theme-light {
+  --color-base-00: #FFFFFF;
+  --color-base-05: #FAFAFA;
+  --color-base-10: #F5F5F5;
+  --color-base-20: #E8E8E8;
+  --color-base-25: #DCDCDC;
+  --color-base-30: #D0D0D0;
+  --color-base-35: #C0C0C0;
+  --color-base-40: #A5A5A5;
+  --color-base-50: #8A8A8A;
+  --color-base-60: #666666;
+  --color-base-70: #555555;
+  --color-base-100: #3B3B3B;
+
+  --color-accent-hsl: 211, 100%, 36%;
+  --color-accent: #005FB8;
+  --color-accent-1: #0070D0;
+  --color-accent-2: #0080E8;
+
+  --background-primary: #FFFFFF;
+  --background-primary-alt: #FAFAFA;
+  --background-secondary: #F5F5F5;
+  --background-secondary-alt: #E8E8E8;
+  --background-modifier-hover: rgba(59, 59, 59, 0.05);
+  --background-modifier-active-hover: rgba(59, 59, 59, 0.10);
+  --background-modifier-border: #D0D0D0;
+  --background-modifier-border-hover: #B0B0B0;
+  --background-modifier-border-focus: #005FB8;
+  --background-modifier-error: rgba(205, 49, 49, 0.10);
+  --background-modifier-error-hover: rgba(205, 49, 49, 0.18);
+  --background-modifier-success: rgba(16, 124, 16, 0.10);
+
+  --text-normal: #3B3B3B;
+  --text-muted: #666666;
+  --text-faint: #A5A5A5;
+  --text-on-accent: #FFFFFF;
+  --text-error: #CD3131;
+  --text-warning: #949800;
+  --text-success: #107C10;
+  --text-accent: #005FB8;
+  --text-accent-hover: #0451A5;
+  --text-selection: rgba(0, 95, 184, 0.15);
+  --text-highlight-bg: rgba(148, 152, 0, 0.15);
+  --text-highlight-bg-active: rgba(0, 95, 184, 0.20);
+
+  --interactive-normal: #E8E8E8;
+  --interactive-hover: #DCDCDC;
+  --interactive-accent: #005FB8;
+  --interactive-accent-hsl: 211, 100%, 36%;
+  --interactive-accent-hover: #0451A5;
+  --interactive-success: #107C10;
+
+  --scrollbar-thumb-bg: rgba(165, 165, 165, 0.3);
+  --scrollbar-active-thumb-bg: rgba(102, 102, 102, 0.5);
+
+  --code-normal: #3B3B3B;
+  --code-background: #F5F5F5;
+  --code-comment: #A5A5A5;
+  --code-function: #005FB8;
+  --code-important: #CD3131;
+  --code-keyword: #0451A5;
+  --code-operator: #949800;
+  --code-property: #0598BC;
+  --code-string: #107C10;
+  --code-tag: #CD3131;
+  --code-value: #CD3131;
+
+  --link-color: #005FB8;
+  --link-color-hover: #0451A5;
+  --link-unresolved-color: #A5A5A5;
+  --link-external-color: #0598BC;
+  --link-external-color-hover: #0451A5;
+}

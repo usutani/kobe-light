@@ -20,7 +20,8 @@ omarchy theme set kobe-light
 - **Obsidian** — ノートアプリテーマ
 - **btop** — リソースモニター色
 - **Chromium** — 新規タブ背景色
-- **壁紙** — 同梱
+- **壁紙** — 同梱（`backgrounds/`）
+  - `suma-coast.jpg` — 須磨海岸（提供：神戸市 / CC BY-NC-SA 4.0, [PHOTO PORT](https://www.photoport-kobe.jp/photo/836)）
 
 ## ライセンス
 

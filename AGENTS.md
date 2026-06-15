@@ -6,7 +6,7 @@
 
 ```
 ~/.config/omarchy/themes/kobe-light/
-├── backgrounds/          # 壁紙
+├── backgrounds/          # 壁紙 (提供: 神戸市 PHOTO PORT)
 ├── btop.theme            # btop リソースモニター色
 ├── chromium.theme        # Chromium 新規タブ背景色 (RGB)
 ├── colors.toml           # ★ コアカラー定義 (Omarchy が各設定を生成)

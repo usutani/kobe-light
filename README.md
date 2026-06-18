@@ -2,6 +2,9 @@
 
 A custom theme for Omarchy.
 
+![Preview](kobe-light.png)
+
+
 ## Usage
 
 ```bash

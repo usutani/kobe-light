@@ -10,18 +10,21 @@
 ├── btop.theme            # btop リソースモニター色
 ├── chromium.theme        # Chromium 新規タブ背景色 (RGB)
 ├── colors.toml           # ★ コアカラー定義 (Omarchy が各設定を生成)
+├── colors/               # Neovim colorscheme本体 (kobe-light.lua)
 ├── hyprland.conf         # アクティブウィンドウ枠色
 ├── hyprlock.conf         # ロック画面色 (RGBA)
 ├── icons.theme           # ファイルマネージャアイコンセット
 ├── light.mode            # ライトテーマ認識用マーカー
 ├── mako.ini              # 通知デーモン色
 ├── neovim.lua            # Neovim colorscheme (lazy.nvim spec)
-├── colors/               # Neovim colorscheme本体 (kobe-light.lua)
 ├── obsidian.css          # Obsidian テーマ
+├── preview.png           # テーマ選択画面プレビュー画像
 ├── swayosd.css           # OSD 表示色
 ├── vscode.json           # VS Code テーマ参照
 ├── walker.css            # アプリランチャー色
-└── waybar.css            # ステータスバー色
+├── waybar.css            # ステータスバー色
+├── LICENSE               # MIT ライセンス
+└── README.md             # テーマ説明
 ```
 
 ## カラーパレット (`colors.toml`)

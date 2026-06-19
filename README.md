@@ -2,7 +2,7 @@
 
 A custom theme for Omarchy.
 
-![Preview](preview/kobe-light.png)
+![Preview](preview.png)
 
 
 ## Usage
